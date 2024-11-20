@@ -1,0 +1,15 @@
+.dashboard-btn {
+    background-color: #2b2d42;  /* Your background color */
+    color: white;  /* Set the text color to white */
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .dashboard-btn:hover {
+    background-color: #4e5b75;  /* A lighter background on hover */
+  }
+  
